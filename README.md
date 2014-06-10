@@ -1,7 +1,7 @@
 Hangman
 =======
 
-game of hangman
+the classic game of hangman
 
 Features:
 - Gameplay starts with launch
@@ -19,3 +19,4 @@ Frameworks, languages, libraries etc:
 
 
 Mockups/wireframes of the screens
+[wireframes!](Hangman/doc)
